@@ -17,10 +17,15 @@ Este repositório implementa um **Pipeline Preditivo completo aplicado à Indús
 ### 💡 Sobre a Base de Dados
 A base foi disponibilizada com problemas propositais — valores nulos, registros duplicados, colunas com potencial de vazamento de dados (*data leakage*) e forte desbalanceamento — visando exercitar capacidades reais de avaliação, diagnóstico e tomada de decisão técnica.
 
+### 📹 Vídeo de Demonstração
+
+* 🎬 **Link da Apresentação:** [Clique aqui para o download do vídeo da apresentação](https://drive.google.com/file/d/11snvmloSHcnmrT0xfRrfJOvMOKBpZkeU/view?usp=sharing)  
+
 ### ⚠️ Observações Acadêmicas e Didáticas
 * **Idioma no Git:** Por diretriz do projeto acadêmico, todas as mensagens de versionamento no Git/GitHub foram padronizadas em **inglês**.
 * **Estrutura Granular:** O notebook possui um número elevado de células para isolar trechos específicos de código e permitir um maior detalhamento teórico e prático por meio de comentários.
 * **Projeto Modelo:** Devido às mesmas razões acadêmicas, o projeto demandou uma quantidade elevada de comentários, que tornam mais efetivo o foco no aprendizado.
+* **Tecnologias:** O projeto foi desenvolvido utilizando o VSCode como IDE, notebooks Jupyter e fazendo uso de um ambiente virtual, para garantir o isolamento (.venv).
 
 ---
 
